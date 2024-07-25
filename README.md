@@ -2,7 +2,7 @@
 
 ## **URL al vídeo de la presentación:**
 
-https://youtu.be/KxBmlQzjztw
+https://youtu.be/KxBmlQzjztw (Created by: Mábel Martínez Rodríguez)
 
 ## **Explorando el Séptimo Arte a través de Datos y Tecnología**
 ### **Participantes en el proyecto** 📝
